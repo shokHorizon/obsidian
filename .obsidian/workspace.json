@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "396179f97ead92ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d57e591c207a3c86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0322f190d093dd2f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b12c9416fe6a77c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e2a6f4508185e65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2aef08169d26bab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "16f1a1bcbd20330f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "деятельно",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "cc68ac280670ec26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d3c3e21bcd7e79a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c25061bfd148ff79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ef81abf742dec5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "c15f73a2e49b093a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "edcafa23f6cd68bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "abebfdc1e5a475bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "2d0162396c885184",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b2aef08169d26bab",
+  "lastOpenFiles": [
+    "obsidian",
+    "Капиталистичестическая экономика.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Количественное смягчение денежно-кредитной политики.md",
+    "Экономика стимулирования предложения.md",
+    "Кэйнсианская политика.md",
+    "Теория просачивания благ сверху вниз.md",
+    "Подоходный налог.md",
+    "Циклы экономики.md",
+    "Оптимизация деятельности.md",
+    "Вывод активов.md",
+    "Недружественное поглощение.md",
+    "Приватизация.md",
+    "Контроль над движением капитала.md",
+    "Стагфляция.md",
+    "Создание промышленности для замены импорта.md",
+    "Принцип поддержки новых отраслей промышленности.md",
+    "Торговый протекционизм.md",
+    "Индикативное планирование.md",
+    "Селективная промышленная политика.md",
+    "Таможенные пошлины.md",
+    "Смешанная экономика.md",
+    "Труд.md",
+    "Экономика.md",
+    "Инфляция.md",
+    "Экономические институты.md",
+    "Субъекты экономической деятельности.md"
+  ]
+}
